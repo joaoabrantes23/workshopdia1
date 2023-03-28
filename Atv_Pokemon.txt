@@ -1,0 +1,16 @@
+atividade pokemon API Workshop
+
+1 -
+nome: pikachu
+tipo: eletric
+evolução: raichu
+
+2 -
+nome: bulbasaur
+tipo: grass
+evolução: ivysaur, venusaur
+
+3 -
+nome: psyduck
+tipo: water
+evolução: golduck
